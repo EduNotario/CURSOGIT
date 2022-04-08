@@ -1,2 +1,2 @@
 cursos inicial 
-curso de GIT
+curso de GIT inicial
